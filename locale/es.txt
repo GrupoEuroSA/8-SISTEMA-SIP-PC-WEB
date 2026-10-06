@@ -1,0 +1,70 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_3CCD9EE2_0CF7_49F2_41A9_FB9B1EE375C6.url = https://grupoeurosa.com/ar/producto/rev-2-500?exhibidor=true
+PopupWebFrameBehaviour_12003358_0C3F_58DF_41A4_1B1AEEFAAEB6.url = https://grupoeurosa.com/ar/producto/sipna?exhibidor=true
+PopupWebFrameBehaviour_2AF200E7_0C11_59F2_41A3_D50FDE9A379A.url = https://grupoeurosa.com/ar/producto/sipna?exhibidor=true
+PopupWebFrameBehaviour_3CCE4EDE_0CF7_49D2_4189_1A917C0328A0.url = https://grupoeurosa.com/ar/producto/sipnb?exhibidor=true
+PopupWebFrameBehaviour_380B4FB7_0C13_4852_41A0_752BBE58A563.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_3CCEAEDF_0CF7_49D2_41A9_463CEC897FEF.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_21FC7CB7_0C11_4852_419F_6A34ABC31ACD.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_118E0507_0C31_3832_41A0_1F96B5A7D952.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_210375A7_0C11_5872_4166_24B3D809B42A.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_21A1D1B6_0C11_7853_41A9_5949D2992143.url = https://grupoeurosa.com/ar/producto/sipnd?exhibidor=true
+PopupWebFrameBehaviour_113FDFDD_0C12_C7D1_41A7_E6DDCE947E0C.url = https://grupoeurosa.com/ar/producto/sipnd?exhibidor=true
+PopupWebFrameBehaviour_268FF6C7_0C11_D832_4196_03CB57F7D3E2.url = https://grupoeurosa.com/ar/producto/sipne?exhibidor=true
+PopupWebFrameBehaviour_252BB307_0C11_3832_415D_EC4D76D45A2E.url = https://grupoeurosa.com/ar/producto/sipnf?exhibidor=true
+PopupWebFrameBehaviour_26C8CD87_0C13_4832_4196_F5CAAA2068B1.url = https://grupoeurosa.com/ar/producto/sipng?exhibidor=true
+
+## E-Learning
+
+### Nombre Puntuación
+score1.label = Puntuación 1
+
+### Pantalla Fin de Tiempo
+quizTimeout_CB8E706A_D047_DCDD_41CE_6494CC4D36EA.title = - TIMEOUT -
+quizTimeout_CB8E706A_D047_DCDD_41CE_6494CC4D36EA.repeat = Repeat
+quizTimeout_CB8E706A_D047_DCDD_41CE_6494CC4D36EA.score = View Score
+
+### Pantalla Pregunta
+quizQuestion_CB8C906A_D047_DCDD_41E1_EA1A88CFF565.ok = OK
+
+### Pantalla Reporte
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.title = - SCORE -
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.completion = Completed
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.questionsCorrect = Correct
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.downloadCSV = Download .csv
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.questionsIncorrect = Incorrect
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.items = Items Found
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.questions = Questions
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.repeat = Repeat
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.submitToLMS = Submit
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.elapsedTime = Time
+
+## Media
+
+### Título
+panorama_2AAE07C2_0C73_F832_4186_2DE71C66089C.label = DIVISOR SIP
+panorama_3B84A454_0C17_F8D7_419C_C687604137B8.label = ESTANTERIA SIP
+panorama_3799BB55_0C31_C8D6_41A5_D8B21AE4C1C1.label = VESTIDOR SIP
+
+## Skin
+
+### Imágen
+Image_1250FECC_4FBE_8DA8_41C9_1794DDFFDBE1.url = skin/Image_1250FECC_4FBE_8DA8_41C9_1794DDFFDBE1_es.png
+Image_13B11A03_4FBF_B498_41B7_7AE25F6A4B6C.url = skin/Image_13B11A03_4FBF_B498_41B7_7AE25F6A4B6C_es.png
+Image_A7B72A62_AA8A_A6E7_41D5_052746F5E1F5.url = skin/Image_A7B72A62_AA8A_A6E7_41D5_052746F5E1F5_es.png
+Image_A7D6CA5C_AA8B_A622_41C1_2E310940DF82.url = skin/Image_A7D6CA5C_AA8B_A622_41C1_2E310940DF82_es.png
+Image_E76B52D6_F30C_BA71_41DB_CB2EE263F28F.url = skin/Image_E76B52D6_F30C_BA71_41DB_CB2EE263F28F_es.png
+Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_mobile.url = skin/Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_mobile_es.png
+Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_mobile.url = skin/Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_mobile_es.png
+Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile.url = skin/Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = 8 SISTEMA SIP EXHIBIDOR
